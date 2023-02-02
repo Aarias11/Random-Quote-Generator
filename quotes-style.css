@@ -1,0 +1,63 @@
+body {
+    background-color: #52616B;
+    font-family: 'Acme', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    
+}
+
+.quote-box {
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #EA5455;
+    opacity: .7;
+    color: white;
+    box-shadow: 10px 15px 15px #852c2c;
+    position: relative;
+    left: 30%;
+
+    
+    
+}
+#quote {
+    
+    height: 200px;
+    text-align: center;
+    overflow-wrap: normal;
+    overflow: scroll;
+    padding: 20px;
+    font-size: 22px;
+}
+
+#author {
+    
+    text-align: right;
+    padding: 20px 20px;
+    font-size: 18px;
+
+}
+
+#btn {
+    border-radius: 5px;
+    position: relative;
+    left: 47%;
+    bottom: -30px;
+    color: #EA5455;
+    
+    height:25px;
+    width: 90px;
+    cursor: pointer;
+
+}
+
+
+#btn:hover {
+    background-color: #EA5455;
+    color: white;
+}
