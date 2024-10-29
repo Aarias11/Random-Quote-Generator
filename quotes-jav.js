@@ -7,7 +7,7 @@ let btn = document.getElementById('btn');
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'dbf6f80d93msh81cd79abc88ec01p124b8fjsn8506d3f70bc0',
+		'X-RapidAPI-Key': 'API_KEY',
 		'X-RapidAPI-Host': 'quotes15.p.rapidapi.com'
 	}
 };
